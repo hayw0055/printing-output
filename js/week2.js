@@ -46,7 +46,7 @@ alert (output);
     Math.floor(Math.random() * (200 - 100) + 100), 
     Math.floor(Math.random() * (200 - 100) + 100),
 ];
-console.log (number[0] + " + " numbers[4] + " = " + (numbers [0] + numbers[4]));
+console.log (number[0] + " + " numbers[4] + " = " + (numbers [0] + numbers[4])));
 
 //check if the number is even or odd
 
